@@ -1,5 +1,5 @@
 # AI-Rock-Paper-Scissors-Game
-This repository contains a Rock Paper Scissors Game. In which we can play Rock Paper Scissors game with AI. I used random library for making this game.
+This repository contains a Rock Paper Scissors Game. In which we can play Rock Paper Scissors game with AI. I used random library. During making of this game I used the basic concepts of python like functions, control flow, booleans, parameters, doctest etc.
 
 The Game:
 Each player choses a move (simultaneously) from the choices:
